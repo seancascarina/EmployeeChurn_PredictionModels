@@ -10,10 +10,11 @@ I trained a tree-based gradient-boosted machine (XGBoost) to predict employee ch
 | F1 score | 0.943 |
 | Accuracy | 0.982 |
 
-### Confusion Matrix for the held-out validation set:
+## Confusion Matrix for the held-out validation set:
 ![confusion matrix](https://raw.githubusercontent.com/seancascarina/EmployeeChurn_PredictionModels/master/images/XGBoost_Model_ConfusionMatrix.png)
 
-### Feature Importances for XGBoost model:
+
+## Feature Importances for XGBoost model:
 ![feature importances](https://raw.githubusercontent.com/seancascarina/EmployeeChurn_PredictionModels/master/images/XGBoost_Model_FeatureImportances.png)
 
 ## Additional Model-building Details
